@@ -1,7 +1,8 @@
 .home {
     max-width: 100vw;
     min-height: 100vh;
-    background-color: #bbd0e48d;
+   /* background-color: #ef9c9c73;*/
+   background-image: radial-gradient(circle at 50% -20.71%, #a0d9e6 0, #a2d9ea 5%, #a4d8ed 10%, #a8d7ef 15%, #acd6f2 20%, #b1d4f3 25%, #b6d3f4 30%, #bbd2f4 35%, #c1d0f4 40%, #c7cff3 45%, #cdcdf2 50%, #d3cbf0 55%, #d8caee 60%, #dec9eb 65%, #e3c7e7 70%, #e7c6e4 75%, #ebc5e0 80%, #efc4db 85%, #f2c4d7 90%, #f4c3d2 95%, #f5c3ce 100%);
   
     header {
       padding: 1rem 0;
@@ -21,8 +22,8 @@
       }
   
       span {
-        color: #212121;
-        font-size: 24px;
+        color: #952475;
+        font-size: 36px;
         line-height: 32px;
         font-weight: 700;
       }
